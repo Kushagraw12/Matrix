@@ -10,7 +10,7 @@ const random = (items) => items[Math.floor(Math.random() * items.length)];
 const hex = "0123456789ABCDEF".split("");
 
 setInterval(() => {
-  ctx.fillStyle = "rgba(0,0,0,.05)";
+  ctx.fillStyle = "rgb(0,0,0,.05)";
   ctx.fillRect(0, 0, w, h);
   ctx.fillStyle = "#0f0";
   p.map((v, i) => {

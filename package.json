@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kushagra",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kushagraw12/Matrix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kushagraw12/Matrix/issues"
+  },
+  "homepage": "https://github.com/Kushagraw12/Matrix#readme"
 }
